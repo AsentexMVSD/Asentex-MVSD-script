@@ -7,3 +7,5 @@ Loadstring is
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AsentexMVSD/Asentex-MVSD-script/main/Asentex%20Beta.lua"))()
 
 # keep in mind only triggerbot works and esp is kinda broken
+
+ill add stuff like aimbot soon tho
