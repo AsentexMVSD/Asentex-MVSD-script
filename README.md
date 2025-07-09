@@ -9,3 +9,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AsentexMVSD/Asentex-M
 # keep in mind only triggerbot works and esp is kinda broken
 
 ill add stuff like aimbot soon tho
+
+
+Dont forget to support us!
+
+https://discord.gg/DYhYsNzjax
